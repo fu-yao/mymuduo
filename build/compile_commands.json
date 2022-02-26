@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.o -c /root/myProject/myMuduo/EventLoop.cpp",
+  "file": "/root/myProject/myMuduo/EventLoop.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.o -c /root/myProject/myMuduo/InetAddress.cpp",
+  "file": "/root/myProject/myMuduo/InetAddress.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.o -c /root/myProject/myMuduo/Thread.cpp",
+  "file": "/root/myProject/myMuduo/Thread.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.o -c /root/myProject/myMuduo/Socket.cpp",
+  "file": "/root/myProject/myMuduo/Socket.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /root/myProject/myMuduo/CurrentThread.cpp",
+  "file": "/root/myProject/myMuduo/CurrentThread.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /root/myProject/myMuduo/DefaultPoller.cpp",
+  "file": "/root/myProject/myMuduo/DefaultPoller.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.o -c /root/myProject/myMuduo/Timestamp.cpp",
+  "file": "/root/myProject/myMuduo/Timestamp.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.o -c /root/myProject/myMuduo/Acceptor.cpp",
+  "file": "/root/myProject/myMuduo/Acceptor.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.o -c /root/myProject/myMuduo/TcpServer.cpp",
+  "file": "/root/myProject/myMuduo/TcpServer.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /root/myProject/myMuduo/EventLoopThread.cpp",
+  "file": "/root/myProject/myMuduo/EventLoopThread.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.o -c /root/myProject/myMuduo/Buffer.cpp",
+  "file": "/root/myProject/myMuduo/Buffer.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.o -c /root/myProject/myMuduo/Channel.cpp",
+  "file": "/root/myProject/myMuduo/Channel.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /root/myProject/myMuduo/TcpConnection.cpp",
+  "file": "/root/myProject/myMuduo/TcpConnection.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /root/myProject/myMuduo/EventLoopThreadPool.cpp",
+  "file": "/root/myProject/myMuduo/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.o -c /root/myProject/myMuduo/Poller.cpp",
+  "file": "/root/myProject/myMuduo/Poller.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.o -c /root/myProject/myMuduo/Logger.cpp",
+  "file": "/root/myProject/myMuduo/Logger.cpp"
+},
+{
+  "directory": "/root/myProject/myMuduo/build",
+  "command": "/usr/bin/g++   -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /root/myProject/myMuduo/EPollPoller.cpp",
+  "file": "/root/myProject/myMuduo/EPollPoller.cpp"
+}
+]
